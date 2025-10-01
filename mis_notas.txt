@@ -1,0 +1,3 @@
+Hay que asegurarse de cerrar correctamente cada archivo.
+Hoy aprendí a manejar mejor GitHub, antes me demoraba bastante.
+Agregar notas eb el programa ayuda a entender mejor lo que se va haciendo.
